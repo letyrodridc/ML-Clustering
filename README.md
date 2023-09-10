@@ -39,3 +39,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropag
 
 Sklearn Affinity Propagation description
 https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation
+
+
+## Resources
+https://machinelearningmastery.com/clustering-algorithms-with-python/
